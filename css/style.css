@@ -1,0 +1,38 @@
+body{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navbar{
+  background-color: rgb(10, 228, 57);
+}
+
+.quem-somos{
+  background-color: rgb(194, 128, 5);
+  color: white;
+}
+.margin{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.marge{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.parceiros{
+  background-color: rgb(8, 126, 236);
+  color: white;
+}
+.h2-parceiros{
+  padding-bottom: 40px;
+}
+.col-lg-4{
+  padding: 8px;
+}
+.h2-servicos{
+  padding-bottom: 40px;
+}
+.fcolor{
+  background-color: black;
+  color: white;
+}
